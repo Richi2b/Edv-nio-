@@ -1,0 +1,6 @@
+{
+  "name": "KinjangoFamily",
+  "description": "Sistema moderno e avançado para gestão, organização e progresso familiar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
